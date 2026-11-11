@@ -1,0 +1,593 @@
+
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gravidez Precoce e Abandono Escolar</title>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+        }
+
+        body {
+            background: #f4f7fb;
+            color: #333;
+            line-height: 1.7;
+        }
+
+        header {
+            background: #7b2cbf;
+            color: white;
+            text-align: center;
+            padding: 35px 15px;
+        }
+
+        header h1 {
+            font-size: 30px;
+        }
+
+        header p {
+            margin-top: 10px;
+        }
+
+        nav {
+            background: #4a148c;
+            padding: 15px;
+            text-align: center;
+            position: sticky;
+            top: 0;
+            z-index: 10;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 8px;
+            font-weight: bold;
+            display: inline-block;
+        }
+
+        nav a:hover {
+            color: #ffd166;
+        }
+
+        .inicio {
+            background: linear-gradient(135deg, #7b2cbf, #c77dff);
+            color: white;
+            text-align: center;
+            padding: 70px 20px;
+        }
+
+        .inicio h2 {
+            font-size: 32px;
+            margin-bottom: 15px;
+        }
+
+        .inicio p {
+            max-width: 800px;
+            margin: auto;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: auto;
+            padding: 25px 15px;
+        }
+
+        section {
+            background: white;
+            padding: 25px;
+            margin-bottom: 25px;
+            border-radius: 10px;
+            box-shadow: 0 2px 8px #ddd;
+        }
+
+        h2 {
+            color: #7b2cbf;
+            margin-bottom: 15px;
+            border-bottom: 2px solid #c77dff;
+            padding-bottom: 8px;
+        }
+
+        h3 {
+            color: #5a189a;
+            margin-top: 18px;
+            margin-bottom: 8px;
+        }
+
+        ul, ol {
+            margin-left: 25px;
+        }
+
+        li {
+            margin-bottom: 7px;
+        }
+
+        .destaque {
+            background: #f3e5f5;
+            padding: 15px;
+            border-left: 5px solid #7b2cbf;
+            margin-top: 15px;
+        }
+
+        form label {
+            display: block;
+            margin-top: 15px;
+            font-weight: bold;
+        }
+
+        input[type="number"],
+        select,
+        textarea {
+            width: 100%;
+            padding: 10px;
+            margin-top: 6px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        .opcao {
+            font-weight: normal;
+            display: inline-block;
+            margin-right: 15px;
+        }
+
+        input[type="radio"] {
+            margin-right: 5px;
+        }
+
+        button {
+            background: #7b2cbf;
+            color: white;
+            border: none;
+            padding: 13px 25px;
+            margin-top: 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+        button:hover {
+            background: #4a148c;
+        }
+
+        footer {
+            background: #4a148c;
+            color: white;
+            text-align: center;
+            padding: 25px;
+        }
+
+        @media(max-width: 600px) {
+            header h1 {
+                font-size: 23px;
+            }
+
+            .inicio h2 {
+                font-size: 25px;
+            }
+
+            nav a {
+                font-size: 13px;
+                margin: 5px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>GRAVIDEZ PRECOCE E ABANDONO ESCOLAR</h1>
+    <p>Educar hoje para proteger o futuro dos jovens</p>
+</header>
+
+<nav>
+    <a href="#inicio">Início</a>
+    <a href="#introducao">Introdução</a>
+    <a href="#objectivos">Objectivos</a>
+    <a href="#desenvolvimento">Desenvolvimento</a>
+    <a href="#solucoes">Soluções</a>
+    <a href="#recomendacoes">Recomendações</a>
+    <a href="#conclusao">Conclusão</a>
+    <a href="#questionario">Questionário</a>
+</nav>
+
+<div class="inicio" id="inicio">
+    <h2>Gravidez Precoce e Abandono Escolar</h2>
+
+    <p>
+        A gravidez precoce é um problema que afecta muitos adolescentes,
+        principalmente raparigas. Muitas vezes, esta situação contribui
+        para o abandono escolar e compromete o futuro das jovens.
+    </p>
+
+    <div class="destaque">
+        <strong>Mensagem:</strong>
+        A educação é um direito de todos.
+        Nenhuma rapariga deve abandonar os estudos por causa de uma gravidez.
+    </div>
+</div>
+
+<main class="container">
+
+<section id="introducao">
+    <h2>1. Introdução</h2>
+
+    <p>
+        A gravidez precoce é um dos maiores problemas que afectam os
+        adolescentes, principalmente as raparigas, em Moçambique e em
+        muitos outros países.
+    </p>
+
+    <p>
+        No ambiente escolar, este tema é muito importante porque a escola
+        é o lugar onde os jovens passam grande parte do tempo e onde devem
+        receber informação, orientação e apoio.
+    </p>
+
+    <p>
+        Quando uma aluna engravida, muitas vezes abandona a escola,
+        perde a oportunidade de continuar os estudos e fica com o futuro
+        comprometido.
+    </p>
+
+    <p>
+        Por isso, é necessário falar abertamente sobre o assunto,
+        sem vergonha e sem discriminação, para ajudar os jovens
+        a tomarem decisões responsáveis.
+    </p>
+</section>
+
+<section id="objectivos">
+    <h2>2. Objectivos</h2>
+
+    <h3>Objectivo Geral</h3>
+    <p>
+        Compreender a relação entre a gravidez precoce e o abandono
+        escolar e sensibilizar os alunos para a sua prevenção.
+    </p>
+
+    <h3>Objectivos Específicos</h3>
+    <ul>
+        <li>Explicar o que é a gravidez precoce e o abandono escolar.</li>
+        <li>Identificar as principais causas da gravidez precoce.</li>
+        <li>Analisar as consequências para a aluna, o bebé, a família e a escola.</li>
+        <li>Apresentar soluções e medidas de prevenção.</li>
+        <li>Propor recomendações para alunos, professores e encarregados.</li>
+    </ul>
+</section>
+
+<section id="desenvolvimento">
+    <h2>3. Desenvolvimento</h2>
+
+    <h3>3.1 O que é a Gravidez Precoce?</h3>
+    <p>
+        É a gravidez que ocorre na adolescência, antes dos 19 anos.
+        Nesta fase, o corpo da rapariga ainda está em desenvolvimento
+        e pode não estar preparado para os desafios da gravidez e do parto.
+    </p>
+
+    <h3>3.2 O que é o Abandono Escolar?</h3>
+    <p>
+        É quando o aluno deixa de frequentar a escola antes de terminar
+        os estudos, sem concluir o nível em que estava.
+    </p>
+
+    <h3>3.3 Causas da Gravidez Precoce</h3>
+    <ul>
+        <li>Falta de informação sobre saúde sexual e reprodutiva.</li>
+        <li>Falta de diálogo em casa sobre sexualidade.</li>
+        <li>Pressão dos colegas e influência das redes sociais.</li>
+        <li>Relações sexuais precoces e sem protecção.</li>
+        <li>Pobreza e troca de sexo por bens materiais ou dinheiro.</li>
+        <li>Casamentos prematuros e práticas culturais.</li>
+        <li>Falta de acesso a métodos contraceptivos.</li>
+        <li>Consumo de álcool e drogas.</li>
+        <li>Falta de ocupação e de projectos de vida.</li>
+    </ul>
+
+    <h3>3.4 Consequências da Gravidez Precoce</h3>
+
+    <strong>Para a rapariga:</strong>
+    <ul>
+        <li>Abandono escolar e perda de oportunidades de emprego.</li>
+        <li>Riscos para a saúde, como complicações no parto e anemia.</li>
+        <li>Problemas emocionais, como tristeza, vergonha e isolamento.</li>
+        <li>Dependência financeira dos pais ou do parceiro.</li>
+    </ul>
+
+    <strong>Para o bebé:</strong>
+    <ul>
+        <li>Maior risco de nascer prematuro ou com baixo peso.</li>
+        <li>Dificuldades em receber cuidados adequados por falta de recursos.</li>
+    </ul>
+
+    <strong>Para a família:</strong>
+    <ul>
+        <li>Aumento das despesas e das preocupações.</li>
+        <li>Possíveis conflitos familiares.</li>
+    </ul>
+
+    <strong>Para a escola e a sociedade:</strong>
+    <ul>
+        <li>Aumento do número de alunas que abandonam a escola.</li>
+        <li>Aumento da pobreza e redução das oportunidades de emprego.</li>
+    </ul>
+
+    <h3>3.5 Impacto na Vida Escolar</h3>
+    <p>
+        A aluna grávida pode enfrentar dificuldades como cansaço,
+        enjoos, faltas constantes, vergonha dos colegas e falta de apoio.
+        Algumas acabam por desistir dos estudos.
+    </p>
+
+    <p>
+        Mesmo quando tentam voltar depois do parto, pode ser difícil
+        conciliar os estudos com os cuidados do bebé.
+    </p>
+</section>
+
+<section id="solucoes">
+    <h2>4. Soluções e Medidas de Prevenção</h2>
+
+    <ul>
+        <li>Promover palestras e debates sobre saúde sexual e reprodutiva.</li>
+        <li>Criar clubes de raparigas e de jovens.</li>
+        <li>Ensinar os jovens a resistir à pressão dos colegas.</li>
+        <li>Incentivar o diálogo entre pais e filhos.</li>
+        <li>Facilitar o acesso à informação e aos serviços de saúde juvenil.</li>
+        <li>Incentivar o desporto, a cultura e outras actividades escolares.</li>
+        <li>Apoiar o regresso das mães adolescentes à escola após o parto.</li>
+        <li>Denunciar casos de abuso sexual e casamentos prematuros às autoridades.</li>
+    </ul>
+</section>
+
+<section id="recomendacoes">
+    <h2>5. Recomendações</h2>
+
+    <h3>Aos alunos:</h3>
+    <ul>
+        <li>Concentrem-se nos estudos e definam metas para o futuro.</li>
+        <li>Procurem informação correcta com professores e profissionais de saúde.</li>
+        <li>Apoiem as colegas grávidas, sem discriminação.</li>
+    </ul>
+
+    <h3>Aos professores:</h3>
+    <ul>
+        <li>Falarem abertamente sobre o tema, sem julgamentos.</li>
+        <li>Identificarem e apoiarem alunos em risco.</li>
+        <li>Criarem um ambiente de confiança na sala de aula.</li>
+    </ul>
+
+    <h3>Aos encarregados de educação:</h3>
+    <ul>
+        <li>Conversarem com os filhos sobre sexualidade e responsabilidades.</li>
+        <li>Acompanharem a vida escolar dos filhos.</li>
+        <li>Apoiarem as filhas grávidas a continuar os estudos.</li>
+    </ul>
+
+    <h3>À direcção da escola:</h3>
+    <ul>
+        <li>Organizar campanhas de sensibilização.</li>
+        <li>Criar parcerias com centros de saúde e organizações juvenis.</li>
+        <li>Garantir a reintegração das alunas grávidas e mães.</li>
+    </ul>
+</section>
+
+<section id="conclusao">
+    <h2>6. Conclusão</h2>
+
+    <p>
+        A gravidez precoce é uma das situações que pode contribuir
+        para o abandono escolar das raparigas. Ela traz consequências
+        para a saúde, para a educação e para o futuro da jovem.
+    </p>
+
+    <p>
+        No entanto, este problema pode ser prevenido com informação,
+        diálogo, apoio da família e da escola, e escolhas responsáveis
+        por parte dos jovens.
+    </p>
+
+    <p>
+        A escola deve ser um espaço de aprendizagem, protecção e esperança.
+        Todos devemos trabalhar juntos para que nenhuma rapariga tenha
+        de abandonar os estudos por causa de uma gravidez precoce.
+    </p>
+</section>
+
+<section>
+    <h2>7. Referências Bibliográficas</h2>
+
+    <ul>
+        <li>Ministério da Educação e Desenvolvimento Humano, Moçambique. Estratégia de Prevenção da Gravidez Precoce.</li>
+        <li>Ministério da Saúde, Moçambique. Saúde Sexual e Reprodutiva dos Adolescentes.</li>
+        <li>UNESCO. Educação Sexual Integral nas Escolas.</li>
+        <li>UNICEF Moçambique. Gravidez na Adolescência e Abandono Escolar.</li>
+        <li>OMS - Organização Mundial da Saúde. Saúde do Adolescente.</li>
+    </ul>
+</section>
+
+<section id="questionario">
+    <h2>8. Questionário</h2>
+
+    <p>
+        Este questionário tem como finalidade recolher informações
+        sobre a gravidez precoce e o abandono escolar.
+        As respostas devem ser tratadas com respeito e confidencialidade.
+    </p>
+
+    <form id="formulario">
+
+        <h3>Dados Pessoais</h3>
+
+        <label>Idade:</label>
+        <input type="number" name="idade" min="10" max="99">
+
+        <label>Classe:</label>
+        <input type="number" name="classe" min="1" max="12">
+
+        <label>Meses de gravidez:</label>
+        <label class="opcao">
+            <input type="radio" name="meses" value="1-3"> 1-3
+        </label>
+        <label class="opcao">
+            <input type="radio" name="meses" value="4-6"> 4-6
+        </label>
+        <label class="opcao">
+            <input type="radio" name="meses" value="7-9"> 7-9
+        </label>
+
+        <h3>Perguntas - Sim ou Não</h3>
+
+        <div id="perguntas"></div>
+
+        <h3>Perguntas de Escolha</h3>
+
+        <div id="escolhas"></div>
+
+        <button type="submit">Enviar respostas</button>
+        <button type="reset">Limpar formulário</button>
+
+    </form>
+
+    <p id="mensagem" style="color:green; margin-top:15px;"></p>
+
+</section>
+
+</main>
+
+<footer>
+    <p>Trabalho Escolar</p>
+    <p>Tema: Gravidez Precoce e Abandono Escolar</p>
+    <p>Moçambique - 2026</p>
+    <p>Todos juntos por uma educação melhor!</p>
+</footer>
+
+<script>
+
+const perguntas = [
+    "Ainda estás a frequentar a escola?",
+    "A tua gravidez foi planeada?",
+    "Os teus pais sabem da tua gravidez?",
+    "Os teus pais te apoiaram quando souberam?",
+    "O pai da criança te apoia?",
+    "Já foste às consultas pré-natais no hospital?",
+    "Sentes vergonha de ir à escola grávida?",
+    "Algum colega já gozou contigo por estares grávida?",
+    "Algum professor já te tratou mal por estares grávida?",
+    "Pensas em continuar a estudar depois do parto?",
+    "Tens alguém para cuidar do bebé quando voltares à escola?",
+    "Já pensaste em desistir da escola?",
+    "Recebeste educação sexual na escola antes de engravidar?"
+];
+
+const escolhas = [
+    {
+        pergunta: "Quem mais te ajuda neste momento?",
+        opcoes: [
+            "Mãe / Pai",
+            "Namorado / Pai do bebé",
+            "Professores",
+            "Ninguém"
+        ]
+    },
+    {
+        pergunta: "Qual é a tua maior dificuldade agora?",
+        opcoes: [
+            "Vergonha / discriminação",
+            "Falta de dinheiro",
+            "Problemas de saúde / cansaço",
+            "Falta de apoio do pai da criança"
+        ]
+    },
+    {
+        pergunta: "O que mais te fez falta antes de engravidar?",
+        opcoes: [
+            "Conversa com os pais",
+            "Palestras na escola",
+            "Acesso a preservativo",
+            "Nada, eu sabia"
+        ]
+    },
+    {
+        pergunta: "O que queres fazer depois do bebé nascer?",
+        opcoes: [
+            "Voltar logo à escola",
+            "Trabalhar",
+            "Ficar em casa a cuidar do bebé",
+            "Ainda não sei"
+        ]
+    },
+    {
+        pergunta: "Que conselho darias a outras meninas?",
+        opcoes: [
+            "Esperar para ter filho",
+            "Usar preservativo",
+            "Estudar primeiro",
+            "Conversar com os pais"
+        ]
+    }
+];
+
+const areaPerguntas = document.getElementById("perguntas");
+
+perguntas.forEach((pergunta, index) => {
+    const numero = index + 1;
+
+    areaPerguntas.innerHTML += `
+        <label>${numero}. ${pergunta}</label>
+        <label class="opcao">
+            <input type="radio" name="p${numero}" value="Sim"> Sim
+        </label>
+        <label class="opcao">
+            <input type="radio" name="p${numero}" value="Não"> Não
+        </label>
+    `;
+});
+
+const areaEscolhas = document.getElementById("escolhas");
+
+escolhas.forEach((item, index) => {
+    const numero = index + 15;
+
+    let html = `<label>${numero}. ${item.pergunta}</label>`;
+
+    item.opcoes.forEach(opcao => {
+        html += `
+            <label class="opcao">
+                <input type="radio"
+                name="p${numero}"
+                value="${opcao}">
+                ${opcao}
+            </label>
+        `;
+    });
+
+    areaEscolhas.innerHTML += html;
+});
+
+document.getElementById("formulario").addEventListener("submit",
+function(event) {
+    event.preventDefault();
+
+    const dados = new FormData(this);
+    const respostas = Object.fromEntries(dados.entries());
+
+    console.log("Respostas do questionário:", respostas);
+
+    document.getElementById("mensagem").textContent =
+        "Respostas preenchidas com sucesso! Atenção: este formulário ainda não envia dados para uma base de dados.";
+
+});
+
+</script>
+
+</body>
+</html>
